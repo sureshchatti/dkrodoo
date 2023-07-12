@@ -27,7 +27,7 @@ sudo docker-compose up
 ## Open Odoo shell for python interpreter
 run below command in the terminal
 ```
-docker exec -it dkrodoo_web_1 odoo shell -d sulaba
+docker exec -it dkrodoo-web-1 odoo shell -d sulaba
 ```
 
 ## Debug odoo addon
